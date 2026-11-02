@@ -324,6 +324,15 @@
         "drm_scheme": "clearkey",
         "extension": "mpd"
       },
+      { 
+        "nombre": "History HD", 
+        "uri": "https://cdn.cvattv.com.ar/live/c7eds/HistoryHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HistoryHD.mpd", 
+        "kid": "e82318e518ba70cea3d7b37bef99e692", 
+        "key": "a05fcb634c071a514e3039e1c274b4db", 
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+
       {
         "name": "WARNER +2H",
         "uri": "https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-v3/__c/TNT_HD_B/__op/delay-dash-wv/__f/manifest.mpd",
